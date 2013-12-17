@@ -1,0 +1,6 @@
+[submodule "mousetrap"]
+	path = mousetrap
+	url = git@github.com:ccampbell/mousetrap.git
+[submodule "keyscss"]
+	path = keyscss
+	url = git@github.com:michaelhue/keyscss.git
